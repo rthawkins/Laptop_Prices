@@ -22,13 +22,13 @@ Laptop data was pulled from [Kaggle](https://www.kaggle.com/ionaskel/laptop-pric
 
 # Data Models
 
-Three data models were trained on 976 laptops attributes and their price.  When testing the models against 326 laptops, their difference to the actual prices is:
+Three data models were trained on 976 laptops attributes and their price.  When [testing the models](https://github.com/rthawkins/laptop_predictive_models/blob/master/LR_RF_testing_clean.ipynb) against 326 laptops, their difference to the actual prices is:
 
 1. Linear Regression (25.2%)
 2. Random Forest (18.7%)
 3. Neural Networks (19.5%)
 
-More detailed information on the models can be found in the model testing PowerPoint presentation.
+More detailed information on the models can be found in the model testing [PowerPoint presentation](https://github.com/rthawkins/laptop_predictive_models/blob/master/model_testing_explanation.pptx).
 
 # Deployment
 
